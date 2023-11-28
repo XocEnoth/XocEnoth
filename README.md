@@ -14,6 +14,6 @@ Hi guys, I'm **Hafidz Mushhafa Al-Karim** (15 y.o) a student from <img src="http
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" height="32" />
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
- <img src="https://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" width="32" />
+ <img src="https://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" height="32" />
  
 </div>
