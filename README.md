@@ -17,5 +17,6 @@ Hi guys, I'm **Hafidz Mushhafa Al-Karim** (16 y.o) a student from **Tangerang Se
  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="32" />
  <img src="https://react.dev/favicon-32x32.png" width="32" />
  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="32" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="32" />
  
 </div>
