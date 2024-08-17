@@ -14,7 +14,8 @@ Hi guys, I'm **Hafidz Mushhafa Al-Karim** (16 y.o) a student from **Tangerang Se
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" height="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="32" />
- <img src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" width="32" />
+ <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="32" />
  <img src="https://react.dev/favicon-32x32.png" width="32" />
+ <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="32" />
  
 </div>
