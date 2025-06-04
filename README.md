@@ -16,6 +16,6 @@ Hi guys, I'm **Hafidz Mushhafa Al-Karim** (16 y.o) a student from **Tangerang Se
  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="32" />
  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="32" />
  <img src="https://react.dev/favicon-32x32.png" width="32" />
- <img src="https://static.cdnlogo.com/logos/p/71/php.svg" width="32" />
+ <img src="https://img.jsdelivr.com/upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/500px-PHP-logo.svg.png" width="32" />
  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="32" />
 </div>
