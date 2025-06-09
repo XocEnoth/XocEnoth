@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
-Hi guys, I'm **Hafidz Mushhafa Al-Karim** (16 y.o) a student from **Tangerang Selatan, Indonesia**. Contact me if you have same interesting or some questions!
+Hi guys, I'm **Hafidz Mushhafa Al-Karim** (17 y.o) a student from **Tangerang Selatan, Indonesia**. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [www.hafidzm@gmail.com](mailto:www.hafidzm@gmail.com).
@@ -18,5 +18,5 @@ Hi guys, I'm **Hafidz Mushhafa Al-Karim** (16 y.o) a student from **Tangerang Se
  <img src="https://react.dev/favicon-32x32.png" width="32" />
  <img src="https://www.svgrepo.com/show/373966/php.svg" width="32" />
  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="32" />
- <img src="https://images.seeklogo.com/logo-png/27/1/xampp-logo-png_seeklogo-274098.png" width="32" />
+ <img src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png" width="32" />
 </div>
