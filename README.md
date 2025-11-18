@@ -1,4 +1,7 @@
-<h1 align="left">H1</h1>
+<h1 align="left">Hello there 👋</h1>
+
+<img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
+Hi guys, I'm **Hafidz Mushhafa Al-Karim** (17 y.o) A passionate fullstack developer from **Tangerang Selatan, Indonesia**. Contact me if you have same interesting or some questions!
 
 ###
 
