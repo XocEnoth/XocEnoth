@@ -87,8 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=XocEnoth&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=XocEnoth&theme=tokyonight&column=4&row=1&margin-w=18&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=XocEnoth&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
